@@ -1,0 +1,14 @@
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\bin\Debug\net8.0\SystemProgramming_HW_1.exe
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\bin\Debug\net8.0\SystemProgramming_HW_1.deps.json
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\bin\Debug\net8.0\SystemProgramming_HW_1.runtimeconfig.json
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\bin\Debug\net8.0\SystemProgramming_HW_1.dll
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\bin\Debug\net8.0\SystemProgramming_HW_1.pdb
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.AssemblyInfoInputs.cache
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.AssemblyInfo.cs
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.csproj.CoreCompileInputs.cache
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.dll
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\refint\SystemProgramming_HW_1.dll
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.pdb
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\SystemProgramming_HW_1.genruntimeconfig.cache
+H:\KASHAG\programming\SystemProgramming\HW\SystemProgramming_HW_1\SystemProgramming_HW_1\obj\Debug\net8.0\ref\SystemProgramming_HW_1.dll
