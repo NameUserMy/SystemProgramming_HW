@@ -1,0 +1,10 @@
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\bin\Debug\SystemProgramming_HW_3.exe.config
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\bin\Debug\SystemProgramming_HW_3.exe
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\bin\Debug\SystemProgramming_HW_3.pdb
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.csproj.AssemblyReference.cache
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.Properties.Resources.resources
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.csproj.GenerateResource.cache
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.csproj.CoreCompileInputs.cache
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.exe
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.pdb
+H:\KASHAG\programming\SystemProgramming\SystemProgramming_HW_3\SystemProgramming_HW_3\obj\Debug\SystemProgramming_HW_3.Form1.resources
