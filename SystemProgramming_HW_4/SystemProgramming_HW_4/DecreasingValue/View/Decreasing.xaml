@@ -1,0 +1,52 @@
+﻿<Window x:Class="SystemProgramming_HW_4.DecreasingValue.View.Decreasing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SystemProgramming_HW_4.DecreasingValue.View"
+        mc:Ignorable="d"
+        Title="Decreasing" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,130,0" Content="Max 3 thread" Width="100" Height="25"></Label>
+        <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,80,0" Content="Max 3 thread" Width="100" Height="25"></Label>
+        <Button Grid.Column="1"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,20,0,0" Name="startButton1" Click="startButton1_Click" Width="150" Height="25" Content="Decreasing one"></Button>
+        <Button Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,20,0,0" Name="startButton5" Click="startButton5_Click" Width="150" Height="25" Content="Decreasing five"></Button>
+        <GroupBox Grid.Row="1" Grid.Column="1" Header="Before"  Margin="5,0,5,5">
+            <StackPanel x:Name="before1StackPanel"  Orientation="Horizontal">
+                <ListBox x:Name="Before1_1" Width="124"  ></ListBox>
+                <ListBox x:Name="Before2_1" Width="124"></ListBox>
+                <ListBox x:Name="Before3_1" Width="124" ></ListBox>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="2" Grid.Column="1" Header="After"  Margin="5,0,5,5">
+            <StackPanel x:Name="After1StackPanel"  Orientation="Horizontal">
+                <ListBox x:Name="After1_1" Width="124"  ></ListBox>
+                <ListBox x:Name="After2_1" Width="124"></ListBox>
+                <ListBox x:Name="After3_1" Width="124" ></ListBox>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="1" Grid.Column="0" Header="Before"  Margin="5,0,5,5">
+            <StackPanel x:Name="before5StackPanel"  Orientation="Horizontal">
+                <ListBox x:Name="Before1_5" Width="124"  ></ListBox>
+                <ListBox x:Name="Before2_5" Width="124"></ListBox>
+                <ListBox x:Name="Before3_5" Width="124" ></ListBox>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="2" Grid.Column="0" Header="After"  Margin="5,0,5,5">
+            <StackPanel x:Name="After5StackPanel"  Orientation="Horizontal">
+                <ListBox x:Name="After1_5" Width="124"  ></ListBox>
+                <ListBox x:Name="After2_5" Width="124"></ListBox>
+                <ListBox x:Name="After3_5" Width="124" ></ListBox>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
