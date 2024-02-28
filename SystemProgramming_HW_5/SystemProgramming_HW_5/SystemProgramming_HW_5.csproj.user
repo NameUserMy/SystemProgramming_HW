@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\EventTask.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MutexView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SemaforView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Start.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\StopwatchTest.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="View\EventTask.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MutexView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SemaforView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Start.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\StopwatchTest.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
