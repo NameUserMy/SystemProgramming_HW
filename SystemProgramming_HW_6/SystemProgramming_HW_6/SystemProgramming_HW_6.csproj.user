@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="DoubleReadFile\View\DoubleRead.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Loader\View\LoaderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OneReadOneView\View\OneDisplay.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OneReadOneView\View\OneRead.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Start\View\Start.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="DoubleReadFile\View\DoubleRead.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Loader\View\LoaderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OneReadOneView\View\OneDisplay.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OneReadOneView\View\OneRead.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Start\View\Start.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
