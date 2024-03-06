@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="SystemProgramming_HW_7.CountFile.View.CountFileView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SystemProgramming_HW_7.CountFile.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            
+            <ColumnDefinition Width="1.2*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0">
+            <Label Grid.Row="0" Grid.Column="0" x:Name="countFile" Content="{Binding CountFile}" ></Label>
+            <Label Grid.Row="0" Grid.Column="1" x:Name="sizeFile" Content="{Binding  SizeFiles}" ></Label>
+        </StackPanel>
+
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5,5,5,5" Text="{Binding AdressFolder}"></TextBox>
+        <Button Grid.Row="0" Grid.Column="2" Margin="5,5,5,5" x:Name="countFileButton" Click="countFileButton_Click" Content="Open folder" ></Button>
+
+
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <Label  x:Name="countFile1" Content="{Binding CountFile1}" ></Label>
+            <Label  x:Name="sizeFile1" Content="{Binding  SizeFiles1}" ></Label>
+        </StackPanel>
+
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="5,5,5,5" Text="{Binding AdressFolder1}"></TextBox>
+        <Button Grid.Row="1" Grid.Column="2" Margin="5,5,5,5" x:Name="countFileButton1" Click="countFileButton1_Click" Content="Open folder" ></Button>
+    </Grid>
+</UserControl>
